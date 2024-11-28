@@ -1,0 +1,8 @@
+﻿  AES_algorithm_.cpp
+C:\Users\patri\Desktop\AES_algorithm_\AES_algorithm_.cpp(436,30): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\patri\Desktop\AES_algorithm_\AES_algorithm_.cpp(442,62): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\patri\Desktop\AES_algorithm_\AES_algorithm_.cpp(459,30): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\patri\Desktop\AES_algorithm_\AES_algorithm_.cpp(465,62): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\patri\Desktop\AES_algorithm_\AES_algorithm_.cpp(483,30): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\patri\Desktop\AES_algorithm_\AES_algorithm_.cpp(489,62): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  AES_algorithm_.vcxproj -> C:\Users\patri\Desktop\AES_algorithm_\x64\Debug\AES_algorithm_.exe
